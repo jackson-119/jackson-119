@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Biao Yang" />
+</h1>
 
-<!--
-**jackson-119/jackson-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Biao Yang, a 22 years graduate student at the School of Software, University of Science and Technology of China now.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 c/c++,python.
+
+
+## Contact
+- yangbiao@mail.ustc.edu.cn

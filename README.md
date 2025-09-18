@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Biao Yang" />
+  <img src="https://raw.githubusercontent.com/Biao Yang/biaoyang/master/name.svg" alt="Biao Yang" />
 </h1>
 
 ## Hey! 👋

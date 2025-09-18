@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Biao Yang/biaoyang/master/name.svg" alt="Biao Yang" />
-</h1>
 
 ## Hey! 👋
 I'm Biao Yang, a 22 years graduate student at the School of Software, University of Science and Technology of China now.
